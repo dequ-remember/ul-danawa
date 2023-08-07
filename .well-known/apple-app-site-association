@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "com.danawa.mobile.Danawa"],
+             "appIDs": ["com.danawa.mobile.Danawa"],
              "components": [
                {
                   "#": "no_universal_links",
