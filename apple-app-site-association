@@ -1,0 +1,10 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "com.danawa.mobile.Danawa",
+            "paths": ["/first/*"]
+            }
+        ]
+    }
+}
