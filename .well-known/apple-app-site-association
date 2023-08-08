@@ -26,11 +26,5 @@
              ]
            }
        ]
-   },
-   "webcredentials": {
-      "apps": []
-   },
-    "appclips": {
-        "apps": []
-    }
+   }
 }
