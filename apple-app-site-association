@@ -2,7 +2,7 @@
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "com.danawa.mobile.Danawa",
+            "appID": "DW32JEYCX2.com.danawa.mobile.Danawa",
             "paths": ["/first/*"]
             }
         ]
