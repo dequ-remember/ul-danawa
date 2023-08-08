@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": ["com.danawa.mobile.Danawa"],
+             "appIDs": ["DW32JEYCX2.com.danawa.mobile.Danawa"],
              "components": [
                {
                   "#": "no_universal_links",
