@@ -1,13 +1,1 @@
-{
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "DW32JEYCX2.com.danawa.mobile.Danawa",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
-  }
-}
+{"applinks": {"apps": [],"details": [{"appID": "DW32JEYCX2.com.danawa.mobile.Danawa","paths": ["*"]}]}}
