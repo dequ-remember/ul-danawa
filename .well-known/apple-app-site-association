@@ -16,5 +16,11 @@
         ]
       }
     ]
-  }
+  },
+  "webcredentials": {
+    "apps": [ "DW32JEYCX2.com.danawa.mobile.Danawa" ]
+   },
+    "appclips": {
+        "apps": ["DW32JEYCX2.com.danawa.mobile.Danawa"]
+    }
 }
