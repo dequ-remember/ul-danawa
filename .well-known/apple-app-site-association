@@ -8,7 +8,7 @@
         ],
         "components": [
           {
-            "/": "/first/first.html"
+            "/": "*"
           }
         ]
       }
