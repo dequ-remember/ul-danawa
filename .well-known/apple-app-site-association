@@ -8,6 +8,9 @@
         "components": [
           {
             "/": "/first/*"
+          },
+          {
+            "/": "/second/second.html"
           }
         ]
       }
