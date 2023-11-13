@@ -3,24 +3,14 @@
     "details": [
       {
         "appIDs": [
-          "BH55JBHZRG.com.danawa.mobile.Danawa",
           "DW32JEYCX2.com.danawa.mobile.Danawa"
         ],
         "components": [
-          {
-            "/": "/first/*"
-          },
           {
             "/": "/first/first.html"
           }
         ]
       }
     ]
-  },
-  "webcredentials": {
-    "apps": [ "DW32JEYCX2.com.danawa.mobile.Danawa" ]
-   },
-    "appclips": {
-        "apps": ["DW32JEYCX2.com.danawa.mobile.Danawa"]
-    }
+  }
 }
