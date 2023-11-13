@@ -8,12 +8,10 @@
         ],
         "components": [
           {
-            "/": "/first/*",
-            "comment": "Matches any URL whose path starts with /first/"
+            "/": "/first/*"
           },
           {
-            "/": "/first/first.html",
-            "comment": "Matches any URL whose path starts with /help/website/ and instructs the system not to open it as a universal link"
+            "/": "/first/first.html"
           }
         ]
       }
