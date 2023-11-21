@@ -7,18 +7,10 @@
         ],
         "components": [
           {
-            "/": "/product/*"
+            "/": "/first/*"
           },
           {
-            "exclude": true,
-            "/": "/myPage/*"
-          },
-          {
-            "exclude": true,
-            "/": "/sectionMain",
-            "?": {
-              "code": 19
-            }
+            "/": "/second/second.html"
           }
         ]
       }
