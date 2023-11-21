@@ -10,7 +10,7 @@
             "/": "*"
           },
           {
-            "/": "/first",
+            "/": "/first/first.html",
             "exclude": true
           }
         ]
